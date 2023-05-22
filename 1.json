@@ -1,0 +1,40 @@
+{
+    "products": [
+        {
+            "name": "Chocolate",
+            "price": 50,
+            "available": true,
+            "weight": 100
+        },
+        {
+            "name": "Coffee",
+            "price": 100,
+            "available": false,
+            "weight": 250
+        },
+        {
+            "name": "Tea",
+            "price": 70,
+            "available": true,
+            "weight": 50
+        },
+        {
+            "name": "Sugar",
+            "price": 90,
+            "weight": 1000,
+            "available": true
+        },
+        {
+            "name": "Milk",
+            "price": 120,
+            "weight": 970,
+            "available": true
+        },
+        {
+            "name": "asdfk",
+            "price": 100,
+            "weight": 100,
+            "available": true
+        }
+    ]
+}
